@@ -7,7 +7,7 @@ Multipage website about the space tourism.
  3. This is fully responsive website i.e. can run on laptop, tablet, phone etc.
 
 # Link
-Live web page: [Click here](https://gautam-divyanshu.github.io/Space-tourism/index.html).
+Live web page: [Click here](https://spaceodysseyy.netlify.app/).
 
 ## Screenshot of preview page
 ![image](https://github.com/gautam-divyanshu/Space-tourism/assets/137816099/58122682-6212-4813-9481-4b883540d64f)
